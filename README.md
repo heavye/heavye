@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Euel
 - 👀 Interested in data science, machine learning, AI & electronics
-- 🌱 Electronics Enginner   
+- 🌱 Electronics & Machine Learning Enginner    
 - 💞️ I’m looking to collaborate on smart people that shares the same vision 
 - 📫 you can reach me out through my email euelfantaye@gmail.com
 - Currently I'm learning Data Science and machine learning @ 10 Academy 
