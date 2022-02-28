@@ -3,10 +3,10 @@
 
 I am a Data and ML Engineer with experience in full-stack development, ETL, data visualization, preprocessing, data and feature engineering, developing an end-to-end data pipeline and Data Analytics.
 - 🔭 &nbsp;I’m currently working as a Data Engineer and Backend for Techcamp Ethiopia Project.
-- 👨‍🏫  I'm also volunteer as a Teacher, learn to code | python programming for beginners in Free Education Ethiopia.
-- 💬 &nbsp;Ask me about Python, AWS, Data & ML Engineering 
+- 👨‍🏫 &nbsp;Volunteer as a Teacher, Learn 2 Code | Python Programming for Beginners in Free Education Ethiopia.
+- 💬 &nbsp;Ask me about Python, AWS, Data & ML Engineering. 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical & Computer Engineering at Addis Ababa University.
-- 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
+- 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects.
 - ⚡ &nbsp; I love Chess :chess_pawn:, Video games :video_game:, and Football ⚽
 ## Tech Stack
 #### Technologies
