@@ -8,6 +8,9 @@ I am a Data and ML Engineer with experience in full-stack development, ETL, data
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical & Computer Engineering at Addis Ababa University.
 - 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects.
 - ⚡ &nbsp; I love Chess :chess_pawn:, Video games :video_game:, and Football ⚽
+
+Want to know more about me and some cool projects I did? [Check out my portfolio.](https://sites.google.com/view/euel/home)
+
 ## Tech Stack
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -44,7 +47,6 @@ I am a Data and ML Engineer with experience in full-stack development, ETL, data
 ## Checkout my Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Medium ](https://euelfantaye.medium.com/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ## Where to find me
