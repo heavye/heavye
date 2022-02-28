@@ -1,5 +1,3 @@
-
-
 # Welcome to my Github profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## I am Euel Fantaye
 
@@ -9,7 +7,7 @@ I am a Data and ML Engineer with experience in full-stack development, ETL, data
 - 💬 &nbsp;Ask me about Python, AWS, Data & ML Engineering 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical & Computer Engineering at Addis Ababa University.
 - 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
-- ⚡ &nbsp; I love Chess :chess_pawn:, Video games :joystick:, and Football ⚽
+- ⚡ &nbsp; I love Chess :chess_pawn:, Video games :video_game:, and Football ⚽
 ## Tech Stack
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -46,7 +44,6 @@ I am a Data and ML Engineer with experience in full-stack development, ETL, data
 ## Checkout my Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Medium ](https://euelfantaye.medium.com/)
-- [LinkdIn Articles](https://www.linkedin.com/in/euel-fantaye/recent-activity/posts/)
 
 <!-- BLOG-POST-LIST:END -->
 
