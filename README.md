@@ -2,7 +2,6 @@
 ## I am Euel Fantaye
 
 I am a Data and Analytics Engineer with experience in full-stack development, ETL, data visualization, preprocessing, data and feature engineering, developing an end-to-end data pipeline and Data Analytics.
-- 🔭 &nbsp;I’m currently working as a Data Engineer and Backend for Techcamp Ethiopia Project.
 - 👨‍🏫 &nbsp;Volunteer as a Teacher, Learn 2 Code | Python Programming for Beginners at Free Education Ethiopia.
 - 💬 &nbsp;Ask me about Python, AWS, Data & ML Engineering. 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical & Computer Engineering at Addis Ababa University.
